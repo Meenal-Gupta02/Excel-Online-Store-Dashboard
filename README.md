@@ -18,6 +18,8 @@ Questions (KPIs):
 -Percentage of Total Orders delivered
 
 Dashboard Interaction:
+- <a href="https://github.com/Meenal-Gupta02/Excel-Online-Store-Dashboard/blob/main/Online_Store_Dashboard.png">Dataset</a>
+
 
 
 
